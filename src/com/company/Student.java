@@ -1,6 +1,6 @@
 package com.company;
 
-public final class Student extends National {
+public class Student extends National {
     private int cours;
     private Gender gender;
 
@@ -18,6 +18,7 @@ public final class Student extends National {
     public Gender getGender() {
         return gender;
     }
+
 
     @Override
     public String getInfo() {

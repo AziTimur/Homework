@@ -28,6 +28,7 @@ public class National extends Person {
         System.out.println("играть на комузе");
     }
 
+
     @Override
     public String getInfo() {
         return super.getInfo() +
