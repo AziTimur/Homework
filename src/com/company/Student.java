@@ -15,6 +15,7 @@ public class Student extends National {
         return cours;
     }
 
+
     public Gender getGender() {
         return gender;
     }

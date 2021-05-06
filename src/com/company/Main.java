@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
+
         National national=new National("Azamat",24,"турк","саз");
         System.out.println(national.getInfo());
         System.out.println("-----------------------------------------------------------------------");

@@ -1,6 +1,7 @@
 package com.company;
 
 public class Expert extends Student{
+
     private String spec;
 
     public Expert(String name, int age, String national, String instruments, int cours, Gender gender,String spec) {
